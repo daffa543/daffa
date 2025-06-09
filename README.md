@@ -14,9 +14,7 @@ I'm a student at **SMKN 1 GEDONG TATAAN** who is passionate about coding and web
 
 ## 📫 Find me on
 
-<!-- - [Instagram]([https://instagram.com/username](https://www.instagram.com/daffamsf_/))
-- [LinkedIn](https://linkedin.com/in/username) -->
-
+https://www.instagram.com/daffamsf_/
 ---
 
 > "Keep learning, keep growing."
